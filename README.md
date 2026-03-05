@@ -1,4 +1,8 @@
-# Web3 Wallet Dashboard
+# Web3 Wallet Dashboard 
+
+## 🌍 Live Demo
+
+https://web3-wallet-dashboard-ruddy.vercel.app
 
 A Web3 dashboard that connects to MetaMask and displays wallet information.
 
