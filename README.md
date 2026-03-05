@@ -31,7 +31,8 @@ npm install
 npm start
 
 ## Screenshot
-(Add screenshot here)
+## 📸 Screenshot
 
+![Web3 Wallet Dashboard](screenshot.png)
 ## Author
 Prachi Mogha
